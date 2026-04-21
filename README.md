@@ -61,7 +61,8 @@ If any of the above commands return `command not found`, resolve the installatio
 
 > **Screenshot 1:** Take a screenshot of your terminal showing all four successful version checks and insert it here.
 >
-> `[insert screenshot]`
+> <img width="1145" height="608" alt="1" src="https://github.com/user-attachments/assets/2fc1bc4f-3514-4ec8-9600-a27464605624" />
+
 
 ---
 
@@ -109,7 +110,8 @@ cat sensordata/T01_2026-03-01.csv
 
 > **Screenshot 2:** Take a screenshot showing the output of `ls sensordata/ | head -8` and the contents of one CSV file, and insert it here.
 >
-> `[insert screenshot]`
+> `<img width="973" height="338" alt="2" src="https://github.com/user-attachments/assets/203db0eb-ccc5-43e9-8f16-0ac0322ea6fa" />
+
 
 ### What does the script do, line by line?
 
@@ -199,7 +201,8 @@ echo "Import complete."
 
 > **Screenshot 3:** Take a screenshot showing the successful execution of the import script and the result of the `COUNT(*)` query, and insert it here.
 >
-> `[insert screenshot]`
+> `<img width="1161" height="539" alt="3" src="https://github.com/user-attachments/assets/7580069d-74b0-4464-8180-bd1cdb00802e" />
+
 
 ---
 
@@ -268,7 +271,10 @@ EOF
 
 > **Screenshot 4:** Take a screenshot showing the output of the Task 1 SQLite query (the first and last few rows are sufficient), and insert it here.
 >
-> `[insert screenshot]`
+> `[insert screenshot]`[first line]<img width="779" height="227" alt="4" src="https://github.com/user-attachments/assets/080d5077-fbd5-470c-b6be-f9b819707964" />
+`[last line]<img width="778" height="159" alt="4 2" src="https://github.com/user-attachments/assets/a1afa93c-dcee-47b8-8b88-c69c3d970176" />
+
+
 
 ### Questions for Task 1
 
